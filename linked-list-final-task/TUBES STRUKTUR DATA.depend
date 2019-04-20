@@ -1,0 +1,230 @@
+# depslib dependency file v1.0
+1523624587 source:e:\tubes struktur data\child.cpp
+	"child.h"
+
+1523627141 source:e:\tubes struktur data\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1523412722 source:e:\tubes struktur data\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+
+1523624587 source:e:\tubes struktur data\parent.cpp
+	"parent.h"
+
+1523619429 e:\tubes struktur data\parent.h
+	<iostream>
+
+1523624107 e:\tubes struktur data\child.h
+	<iostream>
+
+1523627953 e:\tubes struktur data\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1523788883 source:e:\tubes struktur data 13 april\child.cpp
+	"child.h"
+
+1523788883 e:\tubes struktur data 13 april\child.h
+	<iostream>
+
+1523801197 source:e:\tubes struktur data 13 april\main.cpp
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1523728952 e:\tubes struktur data 13 april\parent.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1523801197 e:\tubes struktur data 13 april\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1523793606 source:e:\tubes struktur data 13 april\parent.cpp
+	"parent.h"
+
+1523801815 source:e:\tubes struktur data 13 april\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+
+1524122654 source:e:\tubes struktur data 15 april\child.cpp
+	"child.h"
+	"parent.h"
+
+1523970107 e:\tubes struktur data 15 april\child.h
+	<iostream>
+
+1523970045 source:e:\tubes struktur data 15 april\main.cpp
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1523968999 e:\tubes struktur data 15 april\parent.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1523961464 e:\tubes struktur data 15 april\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1523969260 source:e:\tubes struktur data 15 april\parent.cpp
+	"parent.h"
+
+1524129078 source:e:\tubes struktur data 15 april\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+
+1524191674 source:e:\tubes struktur data insyaallah fix\child.cpp
+	"child.h"
+	"parent.h"
+
+1523970107 e:\tubes struktur data insyaallah fix\child.h
+	<iostream>
+
+1523968999 e:\tubes struktur data insyaallah fix\parent.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1524239982 source:e:\tubes struktur data insyaallah fix\main.cpp
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1524239982 e:\tubes struktur data insyaallah fix\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1523969260 source:e:\tubes struktur data insyaallah fix\parent.cpp
+	"parent.h"
+
+1524278438 source:e:\tubes struktur data insyaallah fix\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+
+1524191674 source:e:\tubes struktur data insyaallah fix2\child.cpp
+	"child.h"
+	"parent.h"
+
+1523970107 e:\tubes struktur data insyaallah fix2\child.h
+	<iostream>
+
+1523968999 e:\tubes struktur data insyaallah fix2\parent.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1524239982 source:e:\tubes struktur data insyaallah fix2\main.cpp
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1524239982 e:\tubes struktur data insyaallah fix2\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1523969260 source:e:\tubes struktur data insyaallah fix2\parent.cpp
+	"parent.h"
+
+1524278438 source:e:\tubes struktur data insyaallah fix2\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+
+1524630127 source:e:\tubes struktur data mm\child.cpp
+	"child.h"
+	"parent.h"
+
+1524629914 e:\tubes struktur data mm\child.h
+	<iostream>
+
+1523968999 e:\tubes struktur data mm\parent.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1524629914 source:e:\tubes struktur data mm\main.cpp
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1524239982 e:\tubes struktur data mm\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1524638036 source:e:\tubes struktur data mm\parent.cpp
+	"parent.h"
+
+1524637531 source:e:\tubes struktur data mm\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+
+1524630127 source:e:\universitas telkom\semester 2\struktur data\tubes struktur data mm\child.cpp
+	"child.h"
+	"parent.h"
+
+1524629914 e:\universitas telkom\semester 2\struktur data\tubes struktur data mm\child.h
+	<iostream>
+
+1523968999 e:\universitas telkom\semester 2\struktur data\tubes struktur data mm\parent.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1542190769 source:e:\universitas telkom\semester 2\struktur data\tubes struktur data mm\main.cpp
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1524239982 e:\universitas telkom\semester 2\struktur data\tubes struktur data mm\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1524638036 source:e:\universitas telkom\semester 2\struktur data\tubes struktur data mm\parent.cpp
+	"parent.h"
+
+1524637531 source:e:\universitas telkom\semester 2\struktur data\tubes struktur data mm\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+
